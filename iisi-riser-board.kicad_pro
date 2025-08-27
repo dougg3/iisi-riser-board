@@ -860,6 +860,12 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Digi-Key Part",
+          "name": "Digi-Key Part",
+          "show": true
         }
       ],
       "filter_string": "",

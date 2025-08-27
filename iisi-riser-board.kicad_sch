@@ -5468,6 +5468,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key Part" "A129761CT-ND"
+			(at 226.06 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ccb41b64-bd05-4244-9949-6629c5eeb01e")
 		)
@@ -5529,6 +5538,15 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 173.99 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key Part" "399-C0805C102J5GACTUCT-ND"
 			(at 173.99 78.74 0)
 			(effects
 				(font
@@ -5666,6 +5684,15 @@
 		)
 		(property "Description" "Zener diode"
 			(at 69.85 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key Part" "SZBZX84C5V1LT3GOSCT-ND"
+			(at 69.85 76.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5940,6 +5967,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key Part" "565-4768-1-ND"
+			(at 54.61 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "712c1305-74b1-4e47-b719-6ad62707c031")
 		)
@@ -6002,6 +6038,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 205.74 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key Part" "13-RC0805FR-078R2LCT-ND"
 			(at 205.74 107.95 0)
 			(effects
 				(font
@@ -6147,6 +6192,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key Part" "P0.0ACT-ND"
+			(at 265.43 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2e73b6c3-8963-48d8-9577-9a60a5832400")
 		)
@@ -6210,6 +6264,15 @@
 		)
 		(property "Description" "Zener diode"
 			(at 19.05 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key Part" "MMBZ5248B-FDICT-ND"
+			(at 19.05 76.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6343,6 +6406,15 @@
 		)
 		(property "Description" "Resistor, US symbol"
 			(at 85.09 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key Part" "P100DACT-ND"
+			(at 85.09 88.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6552,6 +6624,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key Part" "A129773CT-ND"
+			(at 135.89 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9dcabd24-a964-43ea-a63f-381a8aac4f67")
 		)
@@ -6622,6 +6703,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key Part" "BZX84C13-FDICT-ND"
+			(at 57.15 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "abcf62ab-1dd5-4d2e-b836-b2bb8fcef70f")
 		)
@@ -6682,6 +6772,15 @@
 		)
 		(property "Description" "Resistor, US symbol"
 			(at 127 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key Part" "A129765CT-ND"
+			(at 127 96.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6816,6 +6915,15 @@
 		)
 		(property "Description" "capacitor, small US symbol"
 			(at 50.8 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key Part" ""
+			(at 50.8 165.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7024,6 +7132,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key Part" "118-TC33X-1-222ECT-ND"
+			(at 254 81.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e3022ace-45be-4fe4-924f-f7b594c664d5")
 		)
@@ -7162,6 +7279,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key Part" "A129741CT-ND"
+			(at 214.63 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eb2c4e01-351d-4e3f-96d1-cea121133941")
 		)
@@ -7224,6 +7350,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 91.44 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key Part" "A129757CT-ND"
 			(at 91.44 148.59 0)
 			(effects
 				(font
@@ -7502,6 +7637,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key Part" "DTA114EKAT146CT-ND"
+			(at 30.48 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "02dfa4b7-aab7-4200-82f2-f07ef91b507e")
 		)
@@ -7575,6 +7719,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key Part" "P0.0ACT-ND"
+			(at 256.54 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "77277009-268c-4f30-ab81-32b92f96b4bb")
 		)
@@ -7636,6 +7789,15 @@
 		)
 		(property "Description" "Resistor, US symbol"
 			(at 238.76 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key Part" "A127026CT-ND"
+			(at 238.76 81.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7778,6 +7940,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key Part" "A122175CT-ND"
+			(at 241.3 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "10"
 			(uuid "34355507-29fd-4e8c-a16b-843d8f55ec44")
 		)
@@ -7870,6 +8041,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key Part" "A129749CT-ND"
+			(at 100.33 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "54b51c0e-0769-43ed-bf90-8276a3c3c495")
 		)
@@ -7940,6 +8120,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key Part" "P0.0ACT-ND"
+			(at 246.38 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "01d5f088-e692-4948-bb51-ebb6483c00b8")
 		)
@@ -8000,6 +8189,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 69.85 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key Part" ""
 			(at 69.85 172.72 0)
 			(effects
 				(font
@@ -8202,6 +8400,15 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 184.15 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key Part" "399-C0805C332J5GACTUCT-ND"
 			(at 184.15 76.2 0)
 			(effects
 				(font
@@ -8543,6 +8750,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key Part" "P0.0ACT-ND"
+			(at 207.01 81.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "029ac9b9-e22b-4a42-a3ff-d4cd2eba006b")
 		)
@@ -8808,6 +9024,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key Part" "399-C0805C331J5GACTUCT-ND"
+			(at 127 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1b447848-1953-47a0-876b-9776abdc9d27")
 		)
@@ -8878,6 +9103,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key Part" "311-47KARCT-ND"
+			(at 91.44 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3f39d2f1-53f4-4ba9-8947-3595087be83c")
 		)
@@ -8940,6 +9174,15 @@
 			)
 		)
 		(property "Description" "NPN transistor, emitter/base/collector"
+			(at 110.49 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key Part" "2SC2412KT146RCT-ND"
 			(at 110.49 144.78 0)
 			(effects
 				(font
@@ -9037,6 +9280,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key Part" "1727-2887-1-ND"
+			(at 91.44 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "61353f7b-7ae0-4624-9e66-172307b42efe")
 		)
@@ -9099,6 +9351,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 69.85 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key Part" "A129761CT-ND"
 			(at 69.85 105.41 0)
 			(effects
 				(font
@@ -9311,6 +9572,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key Part" "2SC2412KT146RCT-ND"
+			(at 110.49 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "758caa0b-0ea3-4201-9241-2658c7f019ca")
 		)
@@ -9374,6 +9644,15 @@
 		)
 		(property "Description" "Resistor, US symbol"
 			(at 127 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key Part" "A129765CT-ND"
+			(at 127 99.06 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9733,6 +10012,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key Part" "1727-2887-1-ND"
+			(at 69.85 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "dd2e2111-c7fd-4592-8642-573db84153af")
 		)
@@ -9936,6 +10224,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key Part" "399-C0805C103K5RACTUCT-ND"
+			(at 69.85 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f41b692d-b9e9-42a8-b1c0-f07d9c0515c0")
 		)
@@ -10072,6 +10369,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key Part" "P150KACT-ND"
+			(at 213.36 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f5d99871-2d8d-4b61-9299-45bae656f62a")
 		)
@@ -10142,6 +10448,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key Part" "A129761CT-ND"
+			(at 91.44 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f0a6fa8b-d8f3-4fd6-bed5-2b4590384cfd")
 		)
@@ -10204,6 +10519,15 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 102.87 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key Part" "399-C0805C103K5RACTUCT-ND"
 			(at 102.87 92.71 0)
 			(effects
 				(font
@@ -10363,6 +10687,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key Part" "SB05-05C-TB-EOSCT-ND"
+			(at 38.1 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4592463d-dacd-468d-a273-3c28d3ce38c0")
 		)
@@ -10425,6 +10758,15 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 193.04 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key Part" "399-C0805C103K5RACTUCT-ND"
 			(at 193.04 83.82 0)
 			(effects
 				(font
@@ -10503,6 +10845,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key Part" "A129761CT-ND"
+			(at 93.98 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e768f16d-aa9c-4e4c-9028-d99026301d6d")
 		)
@@ -10562,6 +10913,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 184.15 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key Part" "P33KDACT-ND"
 			(at 184.15 82.55 0)
 			(effects
 				(font
@@ -10632,6 +10992,15 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 105.41 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key Part" "445-2283-1-ND"
 			(at 105.41 58.42 0)
 			(effects
 				(font
@@ -10771,6 +11140,15 @@
 			)
 		)
 		(property "Description" "Digital NPN Transistor, 22k/47k, SOT-23"
+			(at 119.38 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key Part" "DTC124XKAT146CT-ND"
 			(at 119.38 52.07 0)
 			(effects
 				(font
@@ -11116,6 +11494,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key Part" "493-3967-1-ND"
+			(at 78.74 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ea22fdb8-e5f0-48cf-87e7-10563329c945")
 		)
@@ -11177,6 +11564,15 @@
 		)
 		(property "Description" "Resistor, US symbol"
 			(at 49.53 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key Part" "A129757CT-ND"
+			(at 49.53 88.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11386,6 +11782,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key Part" "311-1119-1-ND"
+			(at 195.58 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "fdd02be9-61eb-4df0-b766-55254dde9e1c")
 		)
@@ -11446,6 +11851,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 154.94 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key Part" ""
 			(at 154.94 101.6 0)
 			(effects
 				(font
@@ -11636,6 +12050,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 91.44 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key Part" "A129761CT-ND"
 			(at 91.44 171.45 0)
 			(effects
 				(font
