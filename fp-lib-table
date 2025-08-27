@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "iisi-riser-board")(type "KiCad")(uri "${KIPRJMOD}/iisi-riser-board.pretty")(options "")(descr ""))
+)
