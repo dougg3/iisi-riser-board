@@ -3282,7 +3282,7 @@
 		(pad "1" smd roundrect
 			(at -2.7 0 90)
 			(size 3.125 2)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.05)
 			(net 10 "Net-(Q3-B)")
 			(pintype "passive")
@@ -3291,7 +3291,7 @@
 		(pad "2" smd roundrect
 			(at 2.775 0 90)
 			(size 3.125 2.125)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.04705882353)
 			(net 1 "GND")
 			(pintype "passive")
@@ -8552,7 +8552,7 @@
 		(pad "1" smd roundrect
 			(at -2.6 0)
 			(size 2.8 2.15)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.04651162791)
 			(net 9 "+12V_ALWAYS_ON")
 			(pintype "passive")
@@ -8561,7 +8561,7 @@
 		(pad "2" smd roundrect
 			(at 2.7 0)
 			(size 3.25 2.15)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.04651162791)
 			(net 1 "GND")
 			(pintype "passive")
